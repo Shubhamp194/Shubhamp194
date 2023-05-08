@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-My name is Shubham and I'm a software engineer. Welcome to my GitHub profile!
+My name is Shubham and I'm a Student at IIIT Bangalore. Welcome to my GitHub profile!
 
 ## Technologies
 
@@ -11,7 +11,6 @@ Here are some of the technologies that I have experience with:
 - Java
 - Spring Boot
 - Python
-- Django
 - JavaScript
 - React
 - HTML/CSS
@@ -20,9 +19,9 @@ Here are some of the technologies that I have experience with:
 
 Here are some of the projects that I have worked on:
 
-- [Project 1](https://github.com/Shubhamp194/project1)
-- [Project 2](https://github.com/Shubhamp194/project2)
-- [Project 3](https://github.com/Shubhamp194/project3)
+- [Swapsie Frontend](https://github.com/Shubhamp194/Swapsie-frontend)
+- [Swapsie Backend](https://github.com/Shubhamp194/Swapsie-backend)
+- [Healthcare Management System](https://github.com/Shubhamp194/Heathcare_Management_System_Front-end)
 
 ## GitHub Stats
 
@@ -38,4 +37,4 @@ Here are some of the projects that I have worked on:
 
 ## Contact Me
 
-You can reach me at [myemail@example.com](mailto:myemail@example.com).
+You can reach me at [Shubham.Pandey@iiitb.ac.in](mailto:Shubham.Pandey@iiitb.ac.in).
